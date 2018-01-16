@@ -333,3 +333,6 @@ header nav ul.hd-menu{
 	margin-left: 10px;
 	width: 100%;
 }
+.about .ab-item p, .aboutv2 .ab-item p{
+	height: 150px
+}
